@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">91745edf8308521054b5c3b6feaad322</icon>
+        <item_view/>
+        <name>OEM Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-21 13:47:43</sys_created_on>
+        <sys_id>297456538348521054b5c3b6feaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEM Form Screen</sys_name>
+        <sys_package display_value="dream cars" source="x_838965_dream_car">ee439a5b8380521054b5c3b6feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dream cars">ee439a5b8380521054b5c3b6feaad390</sys_scope>
+        <sys_update_name>sys_sg_form_screen_297456538348521054b5c3b6feaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-21 13:47:43</sys_updated_on>
+        <table>x_838965_dream_car_oem</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="OEM Detail Screen View Config">957456538348521054b5c3b6feaad3b6</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=297456538348521054b5c3b6feaad3bc"/>
+</record_update>

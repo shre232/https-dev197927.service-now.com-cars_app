@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b04da138348521054b5c3b6feaad3e2" label="OEM" max_length="40" name="x_838965_dream_car_oem" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Oem" max_length="40" name="oem_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

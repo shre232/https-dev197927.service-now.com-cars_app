@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Makes Item Stream">e57456538348521054b5c3b6feaad3fb</item_stream>
+        <master_item display_value="Makes master_item">a17456538348521054b5c3b6feaad3fc</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-21 13:47:44</sys_created_on>
+        <sys_id>297456538348521054b5c3b6feaad3fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="dream cars" source="x_838965_dream_car">ee439a5b8380521054b5c3b6feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dream cars">ee439a5b8380521054b5c3b6feaad390</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_297456538348521054b5c3b6feaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-21 13:47:44</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>
